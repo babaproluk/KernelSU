@@ -1,4 +1,4 @@
-# Difference with Magisk
+# Difference with Magisk.
 
 Although there are many similarities between KernelSU modules and Magisk modules, there are inevitably some differences due to their completely different implementation mechanisms. If you want your module to run on both Magisk and KernelSU, you must understand these differences.
 
